@@ -1,9 +1,9 @@
 {
   "name": "@EAbdouDev/blueprints-ui",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/YOUR_REPOSITORY_NAME"
+    "registry": "https://npm.pkg.github.com/blueprints-ui"
   },
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A simple react component library",
   "scripts": {
     "rollup": "rollup -c",
